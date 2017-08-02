@@ -6475,3 +6475,15 @@ button.close {
     margin-top: 60px; }
   .dos button {
     margin-top: 20px; }
+
+footer {
+  margin-top: 30px;
+  margin-bottom: 30px; }
+  footer a {
+    text-decoration: none;
+    color: black; }
+  footer .pri {
+    border-left: 1px solid #3DC9B4;
+    border-right: 1px solid #3DC9B4; }
+  footer p {
+    margin-top: 20px; }
