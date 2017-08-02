@@ -6471,4 +6471,7 @@ button.close {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
-    height: 350px; }
+    height: 370px;
+    margin-top: 60px; }
+  .dos button {
+    margin-top: 20px; }
