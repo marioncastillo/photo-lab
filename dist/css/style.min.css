@@ -6427,6 +6427,10 @@ button.close {
 
 /*# sourceMappingURL=bootstrap.css.map */
 
+.navbar {
+  background-color: transparent;
+  border: transparent; }
+
 .navbar-nav {
   padding-left: 350px; }
   .navbar-nav a {
@@ -6436,4 +6440,35 @@ button.close {
   color: white; }
 
 .navbar-inverse .navbar-nav > li > a:hover {
-  color: red; }
+  color: #E69576; }
+
+.menu {
+  background-image: url(../../dist/img/bg1.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+.uno {
+  margin-top: 200px;
+  color: white; }
+
+.btn-default {
+  background-color: #3DC9B4;
+  color: white;
+  border: transparent; }
+
+.dos {
+  background-color: #ecf0f1; }
+  .dos h4 {
+    color: #3DC9B4; }
+  .dos p {
+    color: grey; }
+  .dos .baja {
+    margin-top: 60px; }
+  .dos .cortar {
+    background-image: url(../../dist/img/hand.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    height: 350px; }

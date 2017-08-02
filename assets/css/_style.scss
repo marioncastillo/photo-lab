@@ -1,5 +1,6 @@
-ul{
-
+.navbar{
+	background-color: transparent;
+	border:transparent;
 }
 .navbar-nav{
 	padding-left: 350px;
@@ -11,5 +12,45 @@ ul{
 	color:white;
 }
 .navbar-inverse .navbar-nav > li > a:hover{
-	color:red;
+	color:#E69576;
+}
+.menu{
+	background-image: url(../../dist/img/bg1.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+.uno{
+	margin-top:200px;
+	color:white;
+}
+.btn-default{
+	background-color:#3DC9B4;
+	color:white;
+	border:transparent;
+}
+
+.dos{
+	background-color:#ecf0f1;
+	h4{
+		color:#3DC9B4;
+	}
+	p{
+		color:grey;
+	}
+	.baja{
+		margin-top:60px;
+	}
+	.cortar{
+	background-image: url(../../dist/img/hand.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top;
+	height: 350px;
+
+
+
+	}
 }
